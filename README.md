@@ -6,7 +6,7 @@ follow the RFC4180 conventions.
 # Compile and Run
 Compile the program using command $ sml csv2dsv.sml
 
-# Converting file from c-seperated format to d-seperated form
+# Converting file from c-seperated format to d-seperated format
 use the command convertDelimiters(infilename, delim1, outfilename, delim2)
 
 infilename: string contain input file name in double quotes. eg. "test.csv"
